@@ -3,5 +3,5 @@ project(itmo_algo)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(itmo_algo sda-contest/L.cpp)
+add_executable(itmo_algo timus/1160.cpp)
 
